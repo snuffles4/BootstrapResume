@@ -1,0 +1,14 @@
+.jumbotron {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.blue {
+    background-color: blue;
+    color: azure;
+}
+
+body {
+    margin-left: 150px;
+    margin-right: 200px;
+}
